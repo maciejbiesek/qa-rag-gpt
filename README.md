@@ -6,7 +6,7 @@ This repository contains a question-answering system based on a language model G
 
 The system has been developed using Conda environment management tool with python 3.8. The list of needed libraries is listed in `requirements.txt` file.
 
-To use the conde please create `.env` file with 
+To use the code please create `.env` file with 
 ```
 OPENAI_API_KEY=[YOUR_KEY]
 ```
